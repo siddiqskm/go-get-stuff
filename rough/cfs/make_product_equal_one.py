@@ -18,7 +18,6 @@ for each_ele in arr:
         if sign == -1:
             sign = 1
 
-if sign == -1:
-    cost += 2
+if sign == -1:p;'m'
 print(cost)
     
